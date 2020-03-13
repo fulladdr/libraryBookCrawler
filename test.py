@@ -12,4 +12,12 @@ FullURL = html_tmpStart + html + html_tmpEnd
 FullHTML = urllib.request.urlopen(FullURL)
 bsObject = BeautifulSoup(FullHTML, "html.parser")
 
-print(bsObject)
+#print(bsObject)
+parsing = bsObject.findAll('p', attrs={'class':'location'})
+print(type(parsing))
+
+i = 0
+while i < len(parsing):
+    location = parsing[i].find('a').text
+    print(location)
+    i += 1

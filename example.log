@@ -1,0 +1,56 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+INFO:root:So should this
+WARNING:root:And this, too
+03/15/2020 01:58:37 AM So should this
+03/15/2020 01:58:37 AM And this, too
+03/15/2020 01:58:59 AM So should this
+03/15/2020 01:58:59 AM And this, too
+03/15/2020 01:59:19 AM So should this
+03/15/2020 01:59:19 AM And this, too
+03/15/2020 02:05:29 AM So should this
+03/15/2020 02:05:29 AM And this, too
+03/15/2020 02:11:48 AM So should this
+03/15/2020 02:11:48 AM And this, too
+03/15/2020 02:16:45 AM So should this
+03/15/2020 02:16:45 AM And this, too
+03/15/2020 02:17:28 AM So should this
+03/15/2020 02:17:28 AM And this, too
+03/15/2020 02:18:59 AM So should this
+03/15/2020 02:18:59 AM And this, too
+03/15/2020 02:21:20 AM Title has been parsed
+03/15/2020 02:21:20 AM So should this
+03/15/2020 02:21:20 AM And this, too
+03/15/2020 02:21:22 AM Title has been parsed
+03/15/2020 02:21:22 AM Location & availability has been parsed
+03/15/2020 02:21:22 AM 10 book has been searched
+03/15/2020 02:23:22 AM Title has been parsed
+03/15/2020 02:23:22 AM Location & availability has been parsed
+03/15/2020 02:23:22 AM 3 book has been searched
+03/15/2020 02:24:24 AM program starts
+03/15/2020 02:24:26 AM Title has been parsed
+03/15/2020 02:24:26 AM Location & availability has been parsed
+03/15/2020 02:24:26 AM 10 book has been searched
+03/15/2020 02:24:26 AM program ends
+03/15/2020 02:25:08 AM --------------------------
+03/15/2020 02:25:08 AM program starts
+03/15/2020 02:25:11 AM Title has been parsed
+03/15/2020 02:25:11 AM Location & availability has been parsed
+03/15/2020 02:25:11 AM 10 book has been searched
+03/15/2020 02:25:11 AM program ends
+03/15/2020 02:25:56 AM --------------------------
+program starts
+03/15/2020 02:25:58 AM Title has been parsed
+03/15/2020 02:25:58 AM Location & availability has been parsed
+03/15/2020 02:25:58 AM 3 book has been searched
+03/15/2020 02:25:58 AM program ends
+03/15/2020 02:29:14 AM --------------------------
+03/15/2020 02:29:14 AM program starts
+03/15/2020 02:29:16 AM Title has been parsed
+03/15/2020 02:29:16 AM Location & availability has been parsed
+03/15/2020 02:29:16 AM 10 book has been searched
+03/15/2020 02:29:16 AM program ends

@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from operator import eq
 import urllib.request
 from urllib import parse
+import logging
 
 def findFunction() :
     global num
@@ -36,6 +37,11 @@ def callFunction() :
         print("nothing has been found\n")
 
 if __name__ == "__main__":
+    logging.basicConfig(filename='example.log',level=logging.DEBUG)
+    logging.debug('This message should go to the log file')
+    logging.info('So should this')
+    logging.warning('And this, too')
+
     num=0
     flag=0
     title = input("책 제목을 입력해주세요 : ")

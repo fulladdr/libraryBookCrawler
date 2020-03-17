@@ -1,6 +1,7 @@
 DEBUG:root:This message should go to the log file
 INFO:root:So should this
 WARNING:root:And this, too
+<<<<<<< HEAD
 DEBUG:root:This message should go to the log file
 INFO:root:So should this
 WARNING:root:And this, too
@@ -54,3 +55,5 @@ program starts
 03/15/2020 02:29:16 AM Location & availability has been parsed
 03/15/2020 02:29:16 AM 10 book has been searched
 03/15/2020 02:29:16 AM program ends
+=======
+>>>>>>> 83665f92fbbbbccde475828216ae24d292692bba
